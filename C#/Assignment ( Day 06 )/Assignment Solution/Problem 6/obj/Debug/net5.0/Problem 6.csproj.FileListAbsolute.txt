@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.exe
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.deps.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.runtimeconfig.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.runtimeconfig.dev.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\bin\Debug\net5.0\Problem 6.pdb
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.AssemblyInfo.cs
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\refint\Problem 6.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.pdb
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\Problem 6.genruntimeconfig.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 7\Session 2\Assignment Solution\Problem 6\obj\Debug\net5.0\ref\Problem 6.dll

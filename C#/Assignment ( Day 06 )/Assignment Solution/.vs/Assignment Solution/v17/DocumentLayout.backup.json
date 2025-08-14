@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|solutionrelative:problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\problem 6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|solutionrelative:problem 6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\assignment\\point1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\point1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\problem 6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04118A55-B69D-44EF-926E-90FF673F6EEE}|Problem 6\\Problem 6.csproj|solutionrelative:problem 6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\assignment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 7\\session 2\\assignment solution\\assignment\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F82B8AC-1129-4FF7-9F45-8AE6C682650F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwKEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:14:19.183Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Employee.cs",
+              "RelativeDocumentMoniker": "Problem 6\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Employee.cs",
+              "RelativeToolTip": "Problem 6\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:23:22.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Point.cs",
+              "RelativeDocumentMoniker": "Problem 6\\Point.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Point.cs",
+              "RelativeToolTip": "Problem 6\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:23:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 6\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Problem 6\\Program.cs*",
+              "RelativeToolTip": "Problem 6\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:22:13.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Point1.cs",
+              "RelativeDocumentMoniker": "Assignment\\Point1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Point1.cs",
+              "RelativeToolTip": "Assignment\\Point1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:11:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Employee.cs",
+              "RelativeToolTip": "Assignment\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:41:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\TypeA.cs",
+              "RelativeDocumentMoniker": "Assignment\\TypeA.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\TypeA.cs",
+              "RelativeToolTip": "Assignment\\TypeA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:26:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Point.cs",
+              "RelativeDocumentMoniker": "Assignment\\Point.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 7\\Session 2\\Assignment Solution\\Assignment\\Point.cs",
+              "RelativeToolTip": "Assignment\\Point.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:15:55.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
