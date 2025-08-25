@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 4\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 4\\interfaces\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\interfaces\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 4\\interfaces\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9081A300-7007-4D05-A9A1-D405CF82735C}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\interfaces\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 3\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EB328-47F5-461E-B213-41308BEC84FE}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|solutionrelative:problem 1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 2\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2948EB-D774-4420-82B2-4619B3034B6D}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 1\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|solutionrelative:problem 1\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assinement solution day07 and day08\\problem 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39093055-AAE5-4915-B405-E9083B16910C}|Problem 1\\Problem 1.csproj|solutionrelative:problem 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\File.cs",
+              "RelativeDocumentMoniker": "Problem 4\\File.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\File.cs",
+              "RelativeToolTip": "Problem 4\\File.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:35:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWritable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Interfaces\\IWritable.cs",
+              "RelativeDocumentMoniker": "Problem 4\\Interfaces\\IWritable.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Interfaces\\IWritable.cs",
+              "RelativeToolTip": "Problem 4\\Interfaces\\IWritable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:33:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Interfaces\\IReadable.cs",
+              "RelativeDocumentMoniker": "Problem 4\\Interfaces\\IReadable.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Interfaces\\IReadable.cs",
+              "RelativeToolTip": "Problem 4\\Interfaces\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:33:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 4\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 4\\Program.cs",
+              "RelativeToolTip": "Problem 4\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:32:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Car.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Car.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Car.cs",
+              "RelativeToolTip": "Problem 3\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:28:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMoveable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Interfaces\\IMoveable.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Interfaces\\IMoveable.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Interfaces\\IMoveable.cs",
+              "RelativeToolTip": "Problem 3\\Interfaces\\IMoveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:28:17.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 3\\Program.cs",
+              "RelativeToolTip": "Problem 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:27:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Circle.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Circle.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Circle.cs",
+              "RelativeToolTip": "Problem 2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:23:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Interfaces\\IShape.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Problem 2\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:22:01.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 2\\Program.cs",
+              "RelativeToolTip": "Problem 2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:21:10.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Problem 1\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Rectangle.cs",
+              "RelativeToolTip": "Problem 1\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:17:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Problem 1\\Interfaces\\IShape.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Problem 1\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:15:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assinement Solution Day07 and Day08\\Problem 1\\Program.cs",
+              "RelativeToolTip": "Problem 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:15:12.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

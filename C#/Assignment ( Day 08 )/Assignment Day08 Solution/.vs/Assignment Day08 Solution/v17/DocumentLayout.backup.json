@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0B03B-34AF-4B26-9B27-185D5659E5FF}|Problem 7\\Problem 7.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0B03B-34AF-4B26-9B27-185D5659E5FF}|Problem 7\\Problem 7.csproj|solutionrelative:problem 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0B03B-34AF-4B26-9B27-185D5659E5FF}|Problem 7\\Problem 7.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0B03B-34AF-4B26-9B27-185D5659E5FF}|Problem 7\\Problem 7.csproj|solutionrelative:problem 7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BDFA3-DCFF-400A-89F0-B745210474C1}|Problem 6\\Problem 6.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BDFA3-DCFF-400A-89F0-B745210474C1}|Problem 6\\Problem 6.csproj|solutionrelative:problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BDFA3-DCFF-400A-89F0-B745210474C1}|Problem 6\\Problem 6.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BDFA3-DCFF-400A-89F0-B745210474C1}|Problem 6\\Problem 6.csproj|solutionrelative:problem 6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|solutionrelative:problem 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 5\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|solutionrelative:problem 5\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 5\\interfaces\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848048A8-9D34-46B2-B886-D2E341D1EBAD}|Problem 5\\Problem 5.csproj|solutionrelative:problem 5\\interfaces\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ADCBAF-DC00-44FA-B350-B77039F733D4}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ADCBAF-DC00-44FA-B350-B77039F733D4}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ADCBAF-DC00-44FA-B350-B77039F733D4}|Problem 4\\Problem 4.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\assignment day08 solution\\problem 4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ADCBAF-DC00-44FA-B350-B77039F733D4}|Problem 4\\Problem 4.csproj|solutionrelative:problem 4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 7\\Book.cs",
+              "RelativeDocumentMoniker": "Problem 7\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 7\\Book.cs",
+              "RelativeToolTip": "Problem 7\\Book.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:08:25.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 7\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 7\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 7\\Program.cs",
+              "RelativeToolTip": "Problem 7\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:08:13.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 6\\Account.cs",
+              "RelativeDocumentMoniker": "Problem 6\\Account.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 6\\Account.cs",
+              "RelativeToolTip": "Problem 6\\Account.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:53:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 6\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 6\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 6\\Program.cs",
+              "RelativeToolTip": "Problem 6\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:53:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Robot.cs",
+              "RelativeDocumentMoniker": "Problem 5\\Robot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Robot.cs",
+              "RelativeToolTip": "Problem 5\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:49:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Interfaces\\IWalkable.cs",
+              "RelativeDocumentMoniker": "Problem 5\\Interfaces\\IWalkable.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Interfaces\\IWalkable.cs",
+              "RelativeToolTip": "Problem 5\\Interfaces\\IWalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:48:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 5\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 5\\Program.cs",
+              "RelativeToolTip": "Problem 5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:47:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 4\\Student.cs",
+              "RelativeDocumentMoniker": "Problem 4\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 4\\Student.cs",
+              "RelativeToolTip": "Problem 4\\Student.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:38:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 4\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 4\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Assignment Day08 Solution\\Problem 4\\Program.cs",
+              "RelativeToolTip": "Problem 4\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:35:20.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

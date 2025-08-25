@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\sortingutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\sortingutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\circleseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\circleseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\squareseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\squareseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 8\\session 2\\part 02 solution\\part 02\\interfaces\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987D101C-D6FA-4C1A-B23D-06DE3BFDDDD2}|Part 02\\Part 02.csproj|solutionrelative:part 02\\interfaces\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingUtility.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\SortingUtility.cs",
+              "RelativeDocumentMoniker": "Part 02\\SortingUtility.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\SortingUtility.cs",
+              "RelativeToolTip": "Part 02\\SortingUtility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:28:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Shapes.cs",
+              "RelativeDocumentMoniker": "Part 02\\Shapes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Shapes.cs",
+              "RelativeToolTip": "Part 02\\Shapes.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:26:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Shape.cs",
+              "RelativeDocumentMoniker": "Part 02\\Shape.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Shape.cs",
+              "RelativeToolTip": "Part 02\\Shape.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:25:48.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleSeries.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\CircleSeries.cs",
+              "RelativeDocumentMoniker": "Part 02\\CircleSeries.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\CircleSeries.cs",
+              "RelativeToolTip": "Part 02\\CircleSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:24:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SquareSeries.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\SquareSeries.cs",
+              "RelativeDocumentMoniker": "Part 02\\SquareSeries.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\SquareSeries.cs",
+              "RelativeToolTip": "Part 02\\SquareSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:23:28.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShapeSeries.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Interfaces\\IShapeSeries.cs",
+              "RelativeDocumentMoniker": "Part 02\\Interfaces\\IShapeSeries.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Interfaces\\IShapeSeries.cs",
+              "RelativeToolTip": "Part 02\\Interfaces\\IShapeSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:23:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Program.cs",
+              "RelativeDocumentMoniker": "Part 02\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 8\\Session 2\\Part 02 Solution\\Part 02\\Program.cs",
+              "RelativeToolTip": "Part 02\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:21:53.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

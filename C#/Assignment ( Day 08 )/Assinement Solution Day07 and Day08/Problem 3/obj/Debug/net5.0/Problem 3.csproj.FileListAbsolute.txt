@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.exe
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.deps.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.runtimeconfig.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\bin\Debug\net5.0\Problem 3.pdb
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.AssemblyInfo.cs
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\refint\Problem 3.dll
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.pdb
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\Problem 3.genruntimeconfig.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Assinement Solution Day07 and Day08\Problem 3\obj\Debug\net5.0\ref\Problem 3.dll

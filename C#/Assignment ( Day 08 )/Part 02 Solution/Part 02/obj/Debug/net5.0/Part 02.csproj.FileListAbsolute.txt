@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Part 02 Solution\Part 02\obj\Debug\net5.0\Part 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Part 02 Solution\Part 02\obj\Debug\net5.0\Part 02.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Part 02 Solution\Part 02\obj\Debug\net5.0\Part 02.AssemblyInfo.cs
+C:\Users\HP\Desktop\رواد مصر .NET\Week 8\Session 2\Part 02 Solution\Part 02\obj\Debug\net5.0\Part 02.csproj.CoreCompileInputs.cache
