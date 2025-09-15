@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Health Care System\obj\Debug\net5.0\Health Care System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Health Care System\obj\Debug\net5.0\Health Care System.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Health Care System\obj\Debug\net5.0\Health Care System.AssemblyInfo.cs
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Health Care System\obj\Debug\net5.0\Health Care System.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Assignemtn\obj\Debug\net5.0\E-commerce System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Assignemtn\obj\Debug\net5.0\E-commerce System.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Assignemtn\obj\Debug\net5.0\E-commerce System.AssemblyInfo.cs
+C:\Users\HP\Desktop\رواد مصر .NET\Week 11\Session 2\Assignemtn Day04\Assignemtn\obj\Debug\net5.0\E-commerce System.csproj.CoreCompileInputs.cache
