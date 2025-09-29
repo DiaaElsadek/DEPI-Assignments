@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewBag.Title = "Students";
+}
+
+<h2>Students</h2>
+
+<form method="get" asp-action="Index">
+    <input type="text" name="searchString" value="@ViewBag.CurrentSearch" placeholder="Search by name" />
+    <select name="departmentId" asp-items="ViewBag.Departments">
+        <option value="">-- All Departments --</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Department?.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@student.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@student.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    Page @ViewBag.CurrentPage of @ViewBag.TotalPages
+</div>
+
+<div>
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a asp-action="Index" asp-route-page="@i" asp-route-searchString="@ViewBag.CurrentSearch" asp-route-departmentId="@ViewBag.CurrentDepartment">
+            @(i == ViewBag.CurrentPage ? $"[{i}]" : i.ToString())
+        </a>
+    }
+</div>

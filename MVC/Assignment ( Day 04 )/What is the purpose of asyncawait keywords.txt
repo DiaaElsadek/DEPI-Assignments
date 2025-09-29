@@ -1,0 +1,7 @@
+The async/await keywords in C# are used to simplify writing asynchronous code.
+
+async: Marks a method as asynchronous, allowing it to contain await statements and usually returning a Task or Task<T>.
+
+await: Pauses the execution of the method until the awaited asynchronous operation completes, without blocking the main thread.
+
+The main purpose is to make asynchronous code look and behave more like synchronous code, which improves readability and maintainability, while also boosting performance in tasks like database calls, file I/O, or network requests.

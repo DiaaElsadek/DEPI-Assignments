@@ -1,0 +1,13 @@
+﻿@model Student
+@{
+    ViewBag.Title = "Delete Student";
+}
+
+<h2>Delete Student</h2>
+<p>Are you sure you want to delete student <b>@Model.Name</b> from department <b>@Model.Department?.Name</b>?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

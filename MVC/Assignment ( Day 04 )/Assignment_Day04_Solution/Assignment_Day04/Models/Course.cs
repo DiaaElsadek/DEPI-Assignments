@@ -1,0 +1,19 @@
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+public class Course
+{
+    public int Id { get; set; }
+
+    [Required]
+    public string Name { get; set; }
+
+    public int Degree { get; set; }
+    public int MinDegree { get; set; }
+
+    public int DepartmentId { get; set; }
+    public Department Department { get; set; }
+
+    public ICollection<Teacher> Teachers { get; set; }
+    public ICollection<StuCrsRes> StuCrsRes { get; set; }
+}

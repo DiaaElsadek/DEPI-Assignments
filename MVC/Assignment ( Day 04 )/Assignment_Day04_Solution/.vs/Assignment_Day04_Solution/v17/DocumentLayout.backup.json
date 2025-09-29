@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\migrations\\20250929131808_teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\migrations\\20250929131808_teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\views\\student\\deletewarning.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\views\\student\\deletewarning.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\migrations\\20250929131430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\migrations\\20250929131430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|c:\\users\\hp\\desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net\\week 14\\session 1\\assignment\\assignment_day04_solution\\assignment_day04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9637-0E32-45F3-B481-3FA78C49C4B5}|Assignment_Day04\\Assignment_Day04.csproj|solutionrelative:assignment_day04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250929131808_TestStudent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Migrations\\20250929131808_TestStudent.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Migrations\\20250929131808_TestStudent.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Migrations\\20250929131808_TestStudent.cs",
+              "RelativeToolTip": "Assignment_Day04\\Migrations\\20250929131808_TestStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:18:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteWarning.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\DeleteWarning.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Views\\Student\\DeleteWarning.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\DeleteWarning.cshtml",
+              "RelativeToolTip": "Assignment_Day04\\Views\\Student\\DeleteWarning.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T13:17:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Assignment_Day04\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T13:17:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Assignment_Day04\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T13:17:06.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Assignment_Day04\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T13:16:38.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Assignment_Day04\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAcwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:15:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250929131430_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Migrations\\20250929131430_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Migrations\\20250929131430_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Migrations\\20250929131430_InitialCreate.cs",
+              "RelativeToolTip": "Assignment_Day04\\Migrations\\20250929131430_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:14:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Program.cs",
+              "RelativeToolTip": "Assignment_Day04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:13:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment_Day04\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\appsettings.json",
+              "RelativeToolTip": "Assignment_Day04\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T13:13:18.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Assignment_Day04\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:12:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StuCrsRes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\StuCrsRes.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Models\\StuCrsRes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\StuCrsRes.cs",
+              "RelativeToolTip": "Assignment_Day04\\Models\\StuCrsRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:11:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment_Day04\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:11:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Teacher.cs",
+              "RelativeToolTip": "Assignment_Day04\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:10:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment_Day04\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:10:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment_Day04\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .NET\\Week 14\\Session 1\\Assignment\\Assignment_Day04_Solution\\Assignment_Day04\\Models\\Department.cs",
+              "RelativeToolTip": "Assignment_Day04\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:10:12.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
