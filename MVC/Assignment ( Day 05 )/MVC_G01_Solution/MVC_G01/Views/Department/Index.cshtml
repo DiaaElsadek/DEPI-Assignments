@@ -1,0 +1,29 @@
+﻿@model List<Department>
+<h1 style="color:white">Departments</h1>
+<!--Visulaize Table-->
+<!--C# Property (Model) , dynamic -->
+<!-- Clean -->
+
+<!-- Model : Container : one thing -->
+<!-- ViewData , ViewBag -->
+
+@{
+	Layout = "_ourlayout";
+}
+
+<a href="/Department/Add" class="btn btn-success mt-3 mb-3">New</a>
+<table class="table  table-bordered" style="color:white">
+	<tr>
+		<th>Number</th>
+		<th>Name</th>
+		<th>Employees Count</th>
+	</tr>
+	@foreach (var item in Model)
+	{
+	<tr>
+			<td>@item.Id</td>
+			<td>@item.Name</td>
+			<td>@item.Employees?.Count</td>
+	</tr>
+	}
+</table>

@@ -1,0 +1,39 @@
+﻿<h1>Hello Rowad !</h1>
+<!-- Razor engine -->
+
+<style>
+h1{
+	color:red
+}
+</style>
+
+<script>
+console.log("Hello");
+</script>
+
+<!-- Razor syntax C# - Engine -->
+<!-- Block Code -->
+@{
+	int X = 10;
+	int Y = X + 10;
+}
+
+<!-- Inline statements -->
+<h2>@X</h2>
+@Y
+
+<!-- Conditional statements -->
+@if (X > Y)
+{
+	<h2>X is greater than Y</h2>
+}
+else
+{
+	<h2>X=@X is Smaller than Y=@Y</h2>
+}
+
+<!-- Looping statements -->
+@for(int i = 0; i < 10; i++)
+{
+	<li>@i</li>
+}

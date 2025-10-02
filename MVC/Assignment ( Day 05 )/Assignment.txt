@@ -1,0 +1,101 @@
+1️⃣ Difference between Single Page Application (SPA) and Multiple Page Application (MPA)
+🔹 Single Page Application (SPA)
+
+Loads a single HTML page and dynamically updates the content as the user interacts with the app.
+
+Uses frameworks like React, Angular, Vue.
+
+Pros:
+
+Fast and smooth user experience (no full page reload).
+
+Works well for modern, interactive apps.
+
+Cons:
+
+Heavier initial load.
+
+SEO can be harder (though modern frameworks improved this).
+
+👉 Suitable for applications that require high interactivity, like dashboards, social platforms, or web apps with lots of client-side actions.
+
+🔹 Multiple Page Application (MPA)
+
+Every time the user interacts, the server sends a new HTML page.
+
+Built with traditional frameworks like ASP.NET MVC, PHP, Django.
+
+Pros:
+
+Great for SEO (search engines can crawl easily).
+
+Suitable for large websites with lots of content.
+
+Cons:
+
+Slower user experience due to multiple reloads.
+
+More complex state management across pages.
+
+👉 Suitable for applications that are content-heavy, like e-commerce sites, blogs, or portals.
+
+🔹 Choosing Between Them for Your Projects
+
+Project 1: E-commerce Website → MPA is better, since SEO and multiple product/category pages are important.
+
+Project 2: Admin Dashboard → SPA is better, since it requires high interactivity, charts, and real-time updates.
+
+Project 3: Blogging/News Platform → MPA is better, because it focuses on content and SEO visibility.
+
+2️⃣ Difference between REST and gRPC
+🔹 REST (Representational State Transfer)
+
+Uses standard HTTP methods (GET, POST, PUT, DELETE).
+
+Data usually exchanged in JSON.
+
+Pros:
+
+Simple, widely adopted, easy to test.
+
+Human-readable (JSON).
+
+Works across browsers and platforms.
+
+Cons:
+
+Slower for high-performance scenarios (JSON parsing overhead).
+
+Not ideal for real-time communication.
+
+👉 REST is best for public APIs, web services, and integrations where simplicity and compatibility matter.
+
+🔹 gRPC (Google Remote Procedure Call)
+
+Uses HTTP/2 and Protocol Buffers (binary format) for communication.
+
+Very fast and efficient, suitable for microservices.
+
+Pros:
+
+High performance (faster than REST).
+
+Built-in support for bi-directional streaming.
+
+Cons:
+
+Harder to debug (binary format not human-readable).
+
+Limited browser support (needs extra setup).
+
+👉 gRPC is best for microservices communication and real-time applications where performance is critical.
+
+✅ Quick Summary:
+
+SPA → For interactive apps (Admin dashboard).
+
+MPA → For SEO/content-heavy apps (E-commerce, Blogs).
+
+REST → Simplicity and compatibility (public APIs).
+
+gRPC → High performance, streaming (microservices).

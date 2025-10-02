@@ -1,0 +1,45 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+
+<form method="post" asp-controller="Employee" asp-action="SaveAdd">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Salary"></label>
+        <input asp-for="Salary" class="form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="DepartmentId"></label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.DeptList" class="form-control">
+           <option value="0">-- Select Deparment --</option>
+            @*  @foreach (var item in ViewBag.DeptList)
+            {
+                <option value="@item.Id">@item.Name</option>           
+            } *@
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Create" class="btn btn-primary mt-3"/>
+</form>
+<!-- /Employee/Index -->
+<a asp-action="Index">Back</a>
+

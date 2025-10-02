@@ -1,0 +1,31 @@
+﻿@model Employee
+<!--strong type -->
+@{
+    // set
+    ViewData["Title"] = "My Details";
+}
+
+<h1>Details</h1>
+
+<h2>@Model.Name</h2>
+<h2>@Model.Salary</h2>
+<br />
+<!-- RazorView >> ViewData : Set / get -->
+
+<!-- 1-Key must be written correct -->
+<!-- 2-operation on value type (Unboxing) -->
+<!-- 3-Type casting -->
+
+<!-- Clean Code : issue -->
+<!-- GEt -->
+
+<h2>@ViewData["Status"]</h2>
+@* <h2>@(int.Parse(ViewData["Rate"].ToString())+10)</h2> *@
+<h2>@(ViewBag.Rate+10)</h2>
+@* <h2>@ViewData["Skills"]</h2> *@
+<select class="form form-control">
+    @foreach (var item in ViewBag.Skills)
+    {
+        <option>@item</option>
+    }
+</select>
