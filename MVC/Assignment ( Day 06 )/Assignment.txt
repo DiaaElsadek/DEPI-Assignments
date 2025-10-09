@@ -1,0 +1,40 @@
+4. Three Use Cases We Need Asynchronous Programming
+
+Asynchronous programming is used when we want to perform long-running operations without blocking the main thread.
+Common use cases include:
+
+		1. Database or API calls, where the application waits for a response from an external service.
+
+		2. File operations, such as reading or writing large files on disk.
+
+		3. Network operations, such as sending emails or downloading data from the internet.
+
+					============================================================
+
+5. Difference Between Thread and Task
+
+A thread is a low-level unit of execution managed by the operating system. It runs code independently and requires manual control such as creation and synchronization.
+A task, on the other hand, is a higher-level abstraction built on top of threads. It represents an asynchronous operation and is managed by the .NET runtime through the ThreadPool.
+In short, every task uses one or more threads, but threads are more manual while tasks are easier to manage with async and await.
+
+					============================================================
+
+6. New Features in .NET 9 for Operations on Generic Types
+
+.NET 9 (starting from .NET 7) introduced generic math, which allows mathematical operations to be performed on generic types.
+This feature is based on interfaces like INumber<T>, enabling developers to write methods that can work with different numeric types such as int, double, and decimal without repeating the same code.
+It improves code reusability, type safety, and flexibility when working with generic numeric operations.
+
+					============================================================
+
+7. Built-in Delegate Types in Details
+
+Delegates are type-safe references to methods in C#. The .NET framework provides three main built-in delegate types:
+
+	- Action: represents a method that takes parameters but does not return a value.
+
+	- Func: represents a method that takes parameters and returns a value.
+
+	- Predicate: represents a method that takes one parameter and always returns a boolean value.
+
+In summary, Action is used when no return value is needed, Func is used when a return value is needed, and Predicate is used when the result is always true or false.

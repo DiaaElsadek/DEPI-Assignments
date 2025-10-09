@@ -1,0 +1,41 @@
+1. Why we need Architecture in any project?
+We need architecture in a project to organize the structure of the code, separate responsibilities, and make the system easier to maintain and scale.
+Good architecture improves code reusability, makes debugging and testing easier, and allows teams to work efficiently without conflicts.
+It ensures that the project remains stable and flexible even as new features are added.
+
+					============================================================
+
+2. What is N-Tier Architecture?
+N-Tier architecture is a software design pattern that separates an application into multiple logical layers or tiers.
+Commonly, it includes three main layers:
+
+Presentation Layer – responsible for the user interface.
+
+Business Logic Layer – contains the logic and rules of the application.
+
+Data Access Layer – handles database interactions.
+This separation helps improve scalability, maintainability, and security.
+
+					============================================================
+
+3. What is Onion Architecture?
+Onion Architecture is a design pattern that aims to keep the core of the application independent from external frameworks and technologies.
+It is structured in layers that form concentric circles:
+
+The innermost layer is the Domain (business logic and entities).
+
+The next layer is the Application Services (use cases).
+
+The outer layers include Infrastructure and UI.
+The main rule is that inner layers do not depend on outer layers.
+
+					============================================================
+
+4. Interview Question: Is LINQ slow in execution?
+LINQ is not inherently slow, but its performance depends on how it is used.
+The key to understanding this is the concept of Deferred Execution and Eager Execution.
+
+Deferred Execution means the query is not executed until the data is actually iterated (for example, with foreach).
+
+Eager Execution means the query is executed immediately (for example, with ToList() or Count()).
+If used correctly, LINQ is efficient, but unnecessary eager execution can lead to performance overhead.
