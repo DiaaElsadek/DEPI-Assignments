@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\infrastructure\\data\\testcasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\testcasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\taskitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\taskitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\taskitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\taskitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\taskitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\taskitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\taskitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\taskitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\taskitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\configurationclasses\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\configurationclasses\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\infrastructure\\data\\configurationclasses\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA80C0A-7D32-470F-8852-E817FE2980BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configurationclasses\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2824549-D2FB-4D35-BE89-F1279EA109D6}|Core\\Core.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2824549-D2FB-4D35-BE89-F1279EA109D6}|Core\\Core.csproj|solutionrelative:core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2824549-D2FB-4D35-BE89-F1279EA109D6}|Core\\Core.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2824549-D2FB-4D35-BE89-F1279EA109D6}|Core\\Core.csproj|solutionrelative:core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\testsolution\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{902296E8-6F3A-474B-BC36-BEA34C194304}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251010135604_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MIGRATIONs\\20251010135604_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:56:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251010135510_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MIGRATIONs\\20251010135510_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:55:10.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Test\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:53:43.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\TaskItems\\Index.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\TaskItems\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:52:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\TaskItems\\Edit.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Edit.cshtml",
+              "RelativeToolTip": "Test\\Views\\TaskItems\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:52:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\TaskItems\\Details.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Details.cshtml",
+              "RelativeToolTip": "Test\\Views\\TaskItems\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:51:56.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\TaskItems\\Delete.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Delete.cshtml",
+              "RelativeToolTip": "Test\\Views\\TaskItems\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:51:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\TaskItems\\Create.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\TaskItems\\Create.cshtml",
+              "RelativeToolTip": "Test\\Views\\TaskItems\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:51:20.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:49:35.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\ConfigurationClasses\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Test\\ConfigurationClasses\\TaskConfiguration.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\ConfigurationClasses\\TaskConfiguration.cs",
+              "RelativeToolTip": "Test\\ConfigurationClasses\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:49:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:46:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\ConfigurationClasses\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ConfigurationClasses\\TaskConfiguration.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\ConfigurationClasses\\TaskConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ConfigurationClasses\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:45:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCaseDbContext.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\TestCaseDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\TestCaseDbContext.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Infrastructure\\Data\\TestCaseDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\TestCaseDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:44:05.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:40:02.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Core\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Core\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Core\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:39:04.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Test\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Test\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:21:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:14:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\TestSolution\\Test\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:12:52.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

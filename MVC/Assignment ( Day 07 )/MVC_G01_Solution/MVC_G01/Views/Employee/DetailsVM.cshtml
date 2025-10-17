@@ -1,0 +1,24 @@
+﻿@*  @model MVC_G01.ViewModels.EmpWithExtraInfoViewModel *@
+ 
+@* @using MVC_G01.ViewModels
+@model EmpWithExtraInfoViewModel
+ *@
+
+@model EmpWithExtraInfoViewModel
+
+@{
+    ViewData["Title"] = "DetailsVM";
+}
+
+<h1>DetailsVM</h1>
+<h2>@Model.EmpName</h2>
+<h2>@Model.DeptName</h2>
+<h2>@Model.Status</h2>
+<h2>@Model.Rate</h2>
+<select class="form form-control">
+    @foreach (var item in Model.Skills)
+    {
+        <option>@item</option>
+    }
+</select>
+

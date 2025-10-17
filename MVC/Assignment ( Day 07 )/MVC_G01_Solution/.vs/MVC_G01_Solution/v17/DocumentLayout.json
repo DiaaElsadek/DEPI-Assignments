@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\clarify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\clarify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|c:\\rowad\\round3\\group02\\mvc\\day07\\mvc_g01_solution\\mvc_g01\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510CB21-6307-410A-92D5-3F533585B3C9}|MVC_G01\\MVC_G01.csproj|solutionrelative:mvc_g01\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "MVC_G01\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:23:32.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "MVC_G01\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:23:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVC_G01\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:46:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "MVC_G01\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:23:02.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "MVC_G01\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:23:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC_G01\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:16:07.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clarify.cs",
+              "DocumentMoniker": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Clarify.cs",
+              "RelativeDocumentMoniker": "MVC_G01\\Clarify.cs",
+              "ToolTip": "C:\\Rowad\\Round3\\Group02\\MVC\\Day07\\MVC_G01_Solution\\MVC_G01\\Clarify.cs",
+              "RelativeToolTip": "MVC_G01\\Clarify.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwI0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:04:50.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
