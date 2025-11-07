@@ -1,0 +1,14 @@
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\bin\Debug\net8.0\Task.Core.deps.json
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\bin\Debug\net8.0\Task.Core.runtimeconfig.json
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\bin\Debug\net8.0\Task.Core.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\bin\Debug\net8.0\Task.Core.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.csproj.AssemblyReference.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.AssemblyInfoInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.AssemblyInfo.cs
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.csproj.CoreCompileInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\refint\Task.Core.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\Task.Core.genruntimeconfig.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Core\obj\Debug\net8.0\ref\Task.Core.dll

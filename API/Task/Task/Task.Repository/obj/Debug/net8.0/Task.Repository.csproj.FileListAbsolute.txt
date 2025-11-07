@@ -1,0 +1,15 @@
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\bin\Debug\net8.0\Task.Repository.deps.json
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\bin\Debug\net8.0\Task.Repository.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\bin\Debug\net8.0\Task.Repository.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\bin\Debug\net8.0\Task.Core.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\bin\Debug\net8.0\Task.Core.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.csproj.AssemblyReference.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.AssemblyInfoInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.AssemblyInfo.cs
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.csproj.CoreCompileInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Rep.B913A7AF.Up2Date
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\refint\Task.Repository.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\Task.Repository.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Repository\obj\Debug\net8.0\ref\Task.Repository.dll

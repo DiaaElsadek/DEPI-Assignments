@@ -1,0 +1,17 @@
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Service.deps.json
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Service.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Service.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Core.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Repository.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Core.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\bin\Debug\net8.0\Task.Repository.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.csproj.AssemblyReference.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.AssemblyInfoInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.AssemblyInfo.cs
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.csproj.CoreCompileInputs.cache
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Ser.0D4EFCB2.Up2Date
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\refint\Task.Service.dll
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\Task.Service.pdb
+F:\study\backend\Eng Ahmed Nasr\08 ASP.NET Core Web APIs\Task\Task.Service\obj\Debug\net8.0\ref\Task.Service.dll
